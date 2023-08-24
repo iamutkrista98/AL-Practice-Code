@@ -1,0 +1,32 @@
+{
+  "id": "64672e1d-b7dc-40b4-b959-0bd5c0c28635",
+  "name": "RePostingExercise",
+  "publisher": "Utkrista",
+  "version": "1.0.0.1",
+  "brief": "Posting Exercise",
+  "description": "Practice Tasks Related to Posting",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.agile.com.np",
+  "logo": "./logo.png",
+  "dependencies": [],
+  "screenshots": ["./logo.png"],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50209
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

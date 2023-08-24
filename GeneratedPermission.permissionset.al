@@ -1,0 +1,31 @@
+permissionset 50101 GeneratedPermission
+{
+    Assignable = true;
+    Permissions = tabledata "Posted Sales Header Agile"=RIMD,
+        tabledata "Posted Sales Line Agile"=RIMD,
+        tabledata "Practice Tasks Table"=RIMD,
+        tabledata "Sales Header Agile"=RIMD,
+        tabledata "Sales Ledger Entry Agile"=RIMD,
+        tabledata "Sales Line Agile"=RIMD,
+        table "Posted Sales Header Agile"=X,
+        table "Posted Sales Line Agile"=X,
+        table "Practice Tasks Table"=X,
+        table "Sales Header Agile"=X,
+        table "Sales Ledger Entry Agile"=X,
+        table "Sales Line Agile"=X,
+        report Malepa209=X,
+        report "Sales Report Agile"=X,
+        report testrep=X,
+        codeunit AgileSalesManagement=X,
+        xmlport MyXMLPort=X,
+        page MyPage=X,
+        page "Posted Sales Header Agile Card"=X,
+        page "Posted Sales Header Agile List"=X,
+        page "Posted Sales Line Agile Part"=X,
+        page PracticeTasksCardPage=X,
+        page PracticeTasksPage=X,
+        page "Sales Header Agile Card"=X,
+        page "Sales Header Agile List"=X,
+        page "Sales Ledger Entry Agile List"=X,
+        page "Sales Line Agile Subform"=X;
+}
